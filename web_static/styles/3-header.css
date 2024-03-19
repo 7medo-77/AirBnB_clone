@@ -1,0 +1,10 @@
+header {
+	background-color: white;
+	height: 70px;
+	border-bottom: 1px solid #CCCCCC;
+	width: 100%;
+	display: block;
+}
+header div {
+	float: left;
+}
